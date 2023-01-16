@@ -1,0 +1,19 @@
+body {
+    color: red;
+
+}
+
+ol {
+    color: green;
+}
+
+li {
+    color: blue;
+}
+.yellow {
+    color: yellow;
+}
+
+#special {
+    color: aqua;
+}
