@@ -1,8 +1,13 @@
 p {
     font-family: 'Akronim';
+    font-weight: bold;
+    line-height: 2;
+    text-decoration: line-through;
+    text-align: center;
 }
 #d {
     font-size: 2.0em;
+    line-height: 3;
 }
 body {
     font-size: 18px;
