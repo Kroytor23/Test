@@ -1,0 +1,18 @@
+.first {
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 100px;
+    z-index: 2;
+    opacity: 0.7;
+}
+
+.second {
+    background-color: aqua;
+    color: black;
+    position: relative;
+    
+    z-index: 1;
+    
+}
