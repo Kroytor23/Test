@@ -1,29 +1,9 @@
-.blue {
-    background: blue;
-    color: white;
-    border: 2px white dashed;
-    height: 100px;
-    width: 200px;
-    position: fixed;
-    top: 100px;
-   
-    
-    z-index: 2;
-    opacity: 0.6;
-    
+p {
+    font-family: 'Akronim';
 }
-
-#white {
-    background: red;
-    color:yellow;
-    border: 2px dashed;
-    height: 10000px;
-    width: 200px;
-    position: absolute;
-   
-    
-    z-index: 1;
-    
-    
+#d {
+    font-size: 2.0em;
 }
-
+body {
+    font-size: 18px;
+}
